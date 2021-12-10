@@ -1,0 +1,1 @@
+INSERT INTO dog (`breed`, `height`, `colour`) VALUES ('Beagle', '40', 'Brown');
